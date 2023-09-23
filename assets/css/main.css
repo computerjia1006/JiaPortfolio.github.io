@@ -329,10 +329,9 @@ input, select, textarea {
 /* Row */
 
 .profile-pic {
-	width: 500px; /* Set the desired width */
+	width: 300px; /* Set the desired width */
 	height: auto; /* Automatically adjust the height to maintain aspect ratio */
 }
-
 
 
 
