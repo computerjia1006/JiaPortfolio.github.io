@@ -75,6 +75,13 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+.image.fit{
+	width: 100px;
+	height: 300px;
+	overflow: auto;
+
+}
+
 
 /* Basic */
 
